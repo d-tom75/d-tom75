@@ -1,4 +1,6 @@
-## Hi there 👋
+# Dhruv Tomar
+
+Hello! I am an undergraduate student at the University of Illinois Urbana-Champaign studying Computer Science and Integrative Biology. I am interested in the applications of computing techniques such as machine learning and bioinformatics to better understand biology!
 
 <!--
 **d-tom75/d-tom75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
