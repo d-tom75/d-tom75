@@ -1,6 +1,6 @@
 # Dhruv Tomar
 
-Hello! I am an undergraduate student (junior) at the University of Illinois Urbana-Champaign studying Computer Science and Integrative Biology. I am interested in the applications of computing techniques such as machine learning and bioinformatics to better understand biology!
+Hello! I am an undergraduate student (senior) at the University of Illinois Urbana-Champaign studying Computer Science and Integrative Biology. I am interested in the applications of computing techniques such as machine learning and bioinformatics to better understand ecology, genetics, and evolution!
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
